@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kenny/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/kenny/GitHub/Andriod-Studio-lidar-app/bot-control-android/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-49347e4fffb8fce2366bfde460158da114595324.jar" />
+    </item>
+    <item
+        jar="/home/kenny/GitHub/Andriod-Studio-lidar-app/bot-control-android/app/libs/jeromq-0.3.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45036fa9e2e75017e4bb4a4d5e35fac2df987416">
+        <dex dex="/home/kenny/GitHub/Andriod-Studio-lidar-app/bot-control-android/app/build/intermediates/pre-dexed/debug/jeromq-0.3.0-SNAPSHOT-d6c1febfde7aa4f0b53dcb7baad9afc0954f73a3.jar" />
+    </item>
+
+</items>
